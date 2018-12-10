@@ -22,5 +22,6 @@ public class AppStart {
         log.info("update form local_6666666");
         log.info("update from local_master_111");
         log.info("update from local_dev_111");
+        log.info("update from local_master_222");
     }
 }
