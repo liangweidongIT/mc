@@ -17,5 +17,6 @@ public class AppStart {
         log.info("update form git_1111111");
         log.info("update form local_333333");
         log.info("update form local_444444");
+        log.info("update form git_22222222");
     }
 }
