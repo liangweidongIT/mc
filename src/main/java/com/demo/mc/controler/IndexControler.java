@@ -16,6 +16,7 @@ public class IndexControler {
         log.info("index_111");
         log.info("index_222");
         log.info("update from local");
+        log.info("update from github");
        return "hello index";
     }
 }
