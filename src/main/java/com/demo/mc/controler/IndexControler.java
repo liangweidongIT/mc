@@ -15,6 +15,7 @@ public class IndexControler {
     public String index() {
         log.info("index_111");
         log.info("index_222");
+        log.info("update from local");
        return "hello index";
     }
 }
