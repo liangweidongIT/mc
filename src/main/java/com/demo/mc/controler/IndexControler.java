@@ -17,6 +17,6 @@ public class IndexControler {
         log.info("index_222");
         log.info("update from local");
         log.info("update from github");
-       return "jenkins 终于整好了";
+       return "jenkins 终于整好了1111111111111111111111111111111";
     }
 }
